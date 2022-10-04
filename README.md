@@ -1,1 +1,3 @@
 # golang-path
+
+test-content
