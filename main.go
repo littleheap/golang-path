@@ -8,4 +8,8 @@ func main() {
 	helloWorld()
 
 	variable()
+
+	conditional()
+
+	set()
 }
